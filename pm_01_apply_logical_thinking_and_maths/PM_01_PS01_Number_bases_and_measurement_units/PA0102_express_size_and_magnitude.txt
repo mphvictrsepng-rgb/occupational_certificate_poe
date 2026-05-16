@@ -1,0 +1,49 @@
+1.1)
+
+1 KB = 1024 bytes
+
+
+
+1.2)
+
+1 GB = 1024 MB
+
+
+
+1.3)
+
+32 KB × 1024 = 32768 bytes
+
+therefore, 32768 bytes = 32768 addresses
+
+
+
+1.4)
+
+option 1:
+
+128 GB × 1024 = 131072 MB
+
+
+
+option 2:
+
+130100 MB
+
+
+
+Comparison:
+
+131072 MB > 130100 MB
+
+
+
+therefore, 128GB for R1340 is the better deal.
+
+
+
+1.5)
+
+10MB × 1024 = 10240 KB
+
+10240 ÷ 32 = 320 memory banks
