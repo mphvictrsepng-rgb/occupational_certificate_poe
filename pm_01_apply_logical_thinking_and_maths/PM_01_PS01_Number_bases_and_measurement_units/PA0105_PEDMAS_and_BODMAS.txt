@@ -1,0 +1,83 @@
+1.1)
+
+Hierarchy;
+
+B - Brackets
+
+O - Orders
+
+D - Division
+
+M - Multiplication
+
+A - Addition
+
+S -Subtraction
+
+
+
+1.2)
+
+Rule 1: Use brackets to show priority.
+
+Example: (2 + 3) × 4
+
+
+
+Rule 2: Follow the BODMAS or PEMDAS order of operations.
+
+
+
+1.3)
+
+BODMAS: Brackets, Orders, Division, Multiplication, Addition, Subtraction
+
+
+
+PEMDAS: Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
+
+
+
+1.4)
+
+(W + U) to W U +
+
+
+
+(X + Y) to X Y +
+
+
+
+W U + X Y + + (combined)
+
+
+
+1.5)
+
+2 + 3 = 5
+
+6 / 3 = 2
+
+5 - 2 = 3 (my final answer)
+
+
+
+1.6)
+
+(2 + 3) - 6 / 3
+
+= 5 - 2
+
+= 3
+
+
+
+2 + 3 - 6 / 3
+
+= 2 + 3 - 2
+
+= 3
+
+
+
+therefo no, both expressions give the same result.
